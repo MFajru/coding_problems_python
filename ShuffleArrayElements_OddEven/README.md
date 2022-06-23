@@ -2,7 +2,7 @@
 
 ## Background
 
-This is the coding problem that i got when applying for Junior Engineering at Shopee, Jakarta.
+This is the coding problem that i got when applying for Junior Engineer at Shopee, Jakarta.
 
 ## Problems
 
